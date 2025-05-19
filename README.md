@@ -50,9 +50,9 @@
 
 ### 🚀 Let's Connect & Collaborate
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/sanket-das-355978269/))
 - 💻 [Portfolio](https://your-portfolio-link.com)
-- ✉️ your.email@example.com
+- ✉️ sanketdas3885@gmail.com
 
 ---
 
