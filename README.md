@@ -16,7 +16,7 @@
 - 🧠 Mechanical Engineer with a serious obsession for **Robotics & Automation**
 - 🛠️ Experienced in **SolidWorks**, **Python**, **MATLAB**, **C++**, and **ROS2**
 - 🤖 Built multiple robotic projects combining **mechanical design**, **control systems**, and **AI**
-- 🧰 Work with **TensorFlow**, **OpenCV**, and real-time embedded systems
+- 🧰 Work with **Pytorch**, **OpenCV**, and real-time embedded systems
 - 🎯 Passionate about solving real-world problems through smart machines
 
 ---
