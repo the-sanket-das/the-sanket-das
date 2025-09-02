@@ -23,15 +23,21 @@
 
 ### 🧠 Tech Stack & Tools
 
-| Tech           | Tools & Frameworks                             |
-|----------------|------------------------------------------------|
-| CAD            | SolidWorks, AutoCAD                            |
-| Robotics       | ROS2, Arduino, Raspberry Pi, SLAM Toolbox      |
-| Programming    | Python, C++, MATLAB                            |
-| AI & Vision    | TensorFlow, OpenCV                             |
-| Dev Tools      | Git, Linux, VS Code                            |
+| Category              | Tools & Frameworks                                                                 |
+|-----------------------|-------------------------------------------------------------------------------------|
+| **Robotics**          | ROS2 (ROS2_Control, MoveIt2, SLAM Toolbox, NAV2), Gazebo, Isaac Sim, Webots, RViz, TF2 |
+| **Mechanical & Simulation** | SolidWorks, Blender (Basic), ANSYS (Fluent, Structural, Thermal), Altair Inspire, MATLAB, Simulink |
+| **Programming**       | C++, Python, Bash, Linux, CMake, Git                                                |
+| **Algorithms**        | SLAM (Gmapping, RTAB-Map), Path Planning (A*, Dijkstra, SMAC, RRT), Motion Control (PID, Pure Pursuit, MPC) |
+| **Sensors**           | LiDAR, IMU, RTK-GPS                                                                 |
+| **Communication**     | UART, SPI, I2C, Modbus TCP/RTU, MQTT                                                 |
+| **AI & Computer Vision** | OpenCV, YOLO, PyTorch, RNN, U-Net, Behavioral Cloning                              |
+| **Mathematics**       | Kinematics (Forward & Inverse), Control Systems, Sensor Fusion (LKF, EKF, UKF), Probability, Differential Equations |
+| **Software Design**   | Design Patterns, Behavior Trees                                                     |
+| **Database**          | SQLite, MongoDB                                                                     |
+| **Hardware**          | Raspberry Pi, Arduino, Motors (DC, Servo, Stepper, Industrial Servo Motors)          |
+| **Dev Tools**         | Git, Linux, VS Code                                                                 |
 
----
 
 ### 🔥 Featured Projects
 
