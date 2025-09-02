@@ -51,7 +51,7 @@
 ### 🚀 Let's Connect & Collaborate
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sanket-das-355978269/)
-- 💻 [Portfolio](https://your-portfolio-link.com)
+- 💻 [Portfolio](https://github.com/the-sanket-das)
 - ✉️ sanketdas3885@gmail.com
 
 ---
