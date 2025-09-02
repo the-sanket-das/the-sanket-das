@@ -45,8 +45,7 @@
 
 - 🦾 **Autonomous Mobile Robot** – SLAM, obstacle avoidance, and path planning in ROS2
 - 🎯 **Robotic Arm with Computer Vision** – Real-time object tracking and pick-and-place using OpenCV + Python
-- 🧲 **Magnetic Wall Climbing Bot** – Designed in SolidWorks, tested with custom control logic
-- 📦 **Warehouse Automation Simulation** – Multi-agent simulation using MATLAB & ROS2
+- 📦 **Warehouse Automation Simulation** – Multi-agent simulation using ROS2
 
 <p align="center">
   <img src="https://giphy.com/gifs/Maytronicsau-love-heart-blue-eY85uUL6z4Wo496BXH" width="400" />
