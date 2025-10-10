@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Mechanical Engineer | CAD Designer | Robotics Dev</b><br>
+  <b>Mechanical Engineer | CAD Designer | Robotics Dev | Gen AI</b><br>
   <i>I don't just build robots — I bring metal to life.</i>
 </p>
 
@@ -34,9 +34,10 @@
 | **AI & Computer Vision** | OpenCV, YOLO, PyTorch, RNN, U-Net, Behavioral Cloning                              |
 | **Mathematics**       | Kinematics (Forward & Inverse), Control Systems, Sensor Fusion (LKF, EKF, UKF), Probability, Differential Equations |
 | **Software Design**   | Design Patterns, Behavior Trees                                                     |
-| **Database**          | SQLite, MongoDB                                                                     |
+| **Database**          | MySQL                                                                    |
 | **Hardware**          | Raspberry Pi, Arduino, Motors (DC, Servo, Stepper, Industrial Servo Motors)          |
 | **Dev Tools**         | Git, Linux, VS Code                                                                 |
+| **GenAI**             | CrewAI , RAG ,LangChain                                                                 |
 
 
 ### 🔥 Featured Projects
