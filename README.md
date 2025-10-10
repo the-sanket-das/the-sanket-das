@@ -31,7 +31,7 @@
 | **Algorithms**        | SLAM (Gmapping, RTAB-Map), Path Planning (A*, Dijkstra, SMAC, RRT), Motion Control (PID, Pure Pursuit, MPC) |
 | **Sensors**           | LiDAR, IMU, RTK-GPS                                                                 |
 | **Communication**     | UART, SPI, I2C, Modbus TCP/RTU, MQTT                                                 |
-| **AI & Computer Vision** | OpenCV, YOLO, PyTorch, RNN, U-Net, Behavioral Cloning                              |
+| **AI & Computer Vision** | OpenCV, YOLO, PyTorch, RNN, Behavioral Cloning                              |
 | **Mathematics**       | Kinematics (Forward & Inverse), Control Systems, Sensor Fusion (LKF, EKF, UKF), Probability, Differential Equations |
 | **Software Design**   | Design Patterns, Behavior Trees                                                     |
 | **Database**          | MySQL                                                                    |
