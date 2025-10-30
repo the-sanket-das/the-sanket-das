@@ -21,27 +21,7 @@
 
 ---
 
-### 🧠 Tech Stack & Tools
-
-| Category              | Tools & Frameworks                                                                 |
-|-----------------------|-------------------------------------------------------------------------------------|
-| **Robotics**          | ROS2 (ROS2_Control, MoveIt2, SLAM Toolbox, NAV2), Gazebo, Isaac Sim, Webots, RViz, TF2 |
-| **Mechanical & Simulation** | SolidWorks, Blender (Basic), ANSYS (Fluent, Structural, Thermal), Altair Inspire, MATLAB, Simulink |
-| **Programming**       | C++, Python, Bash, Linux, CMake, Git                                                |
-| **Algorithms**        | SLAM (Gmapping, RTAB-Map), Path Planning (A*, Dijkstra, SMAC, RRT), Motion Control (PID, Pure Pursuit, MPC) |
-| **Sensors**           | LiDAR, IMU, RTK-GPS                                                                 |
-| **Communication**     | UART, SPI, I2C, Modbus TCP/RTU, MQTT                                                 |
-| **AI & Computer Vision** | OpenCV, YOLO, PyTorch, RNN, Behavioral Cloning                              |
-| **Mathematics**       | Kinematics (Forward & Inverse), Control Systems, Sensor Fusion (LKF, EKF, UKF), Probability, Differential Equations |
-| **Software Design**   | Design Patterns, Behavior Trees                                                     |
-| **Database**          | MySQL                                                                    |
-| **Hardware**          | Raspberry Pi, Arduino, Motors (DC, Servo, Stepper, Industrial Servo Motors)          |
-| **Dev Tools**         | Git, Linux, VS Code                                                                 |
-| **GenAI**             | CrewAI , RAG ,LangChain                                                                 |
-
 ### 🧰 Tech Stack
-
-#### 🦾 Robotics
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=ros&logoColor=white)
 ![NAV2](https://img.shields.io/badge/NAV2-00599C?style=for-the-badge&logo=naver&logoColor=white)
@@ -49,20 +29,12 @@
 ![RViz](https://img.shields.io/badge/RViz-2E8B57?style=for-the-badge&logo=ros&logoColor=white)
 ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![TF2](https://img.shields.io/badge/TF2-FFB300?style=for-the-badge&logo=transformer&logoColor=black)
-
----
-
-#### ⚙️ Mechanical & Simulation
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Altair Inspire](https://img.shields.io/badge/Altair%20Inspire-E41F26?style=for-the-badge&logo=altair&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
----
-
-#### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -70,10 +42,6 @@
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-#### 🧠 AI, Computer Vision & GenAI
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=chainlink&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FFD43B?style=for-the-badge&logo=autodesk&logoColor=black)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -85,19 +53,11 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white)
-
----
-
-#### 📡 Communication & IoT
 ![UART](https://img.shields.io/badge/UART-0061A8?style=for-the-badge&logo=serialport&logoColor=white)
 ![SPI](https://img.shields.io/badge/SPI-4A90E2?style=for-the-badge&logo=modbus&logoColor=white)
 ![I2C](https://img.shields.io/badge/I2C-29B6F6?style=for-the-badge&logo=iota&logoColor=white)
 ![Modbus](https://img.shields.io/badge/Modbus-FFD700?style=for-the-badge&logo=modin&logoColor=black)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
-
----
-
-#### ⚙️ Hardware & Platforms
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
@@ -105,10 +65,6 @@
 ![IMU](https://img.shields.io/badge/IMU-6495ED?style=for-the-badge&logo=adobe&logoColor=white)
 ![RTK GPS](https://img.shields.io/badge/RTK--GPS-2F74C0?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Smart Motors](https://img.shields.io/badge/Smart%20Motors-0072C6?style=for-the-badge&logo=siemens&logoColor=white)
-
----
-
-#### 🧮 Mathematics & Algorithms
 ![SLAM](https://img.shields.io/badge/SLAM-00AEEF?style=for-the-badge&logo=mapbox&logoColor=white)
 ![Path Planning](https://img.shields.io/badge/Path%20Planning-0078D7?style=for-the-badge&logo=thealgorithms&logoColor=white)
 ![Control Systems](https://img.shields.io/badge/Control%20Systems-DC143C?style=for-the-badge&logo=arduino&logoColor=white)
